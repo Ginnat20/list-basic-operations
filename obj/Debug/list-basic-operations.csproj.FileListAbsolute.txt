@@ -1,0 +1,7 @@
+C:\Users\ASUS X510Q\source\repos\list-basic-operations\list-basic-operations\bin\Debug\list-basic-operations.exe.config
+C:\Users\ASUS X510Q\source\repos\list-basic-operations\list-basic-operations\bin\Debug\list-basic-operations.exe
+C:\Users\ASUS X510Q\source\repos\list-basic-operations\list-basic-operations\bin\Debug\list-basic-operations.pdb
+C:\Users\ASUS X510Q\source\repos\list-basic-operations\list-basic-operations\obj\Debug\list-basic-operations.csprojAssemblyReference.cache
+C:\Users\ASUS X510Q\source\repos\list-basic-operations\list-basic-operations\obj\Debug\list-basic-operations.csproj.CoreCompileInputs.cache
+C:\Users\ASUS X510Q\source\repos\list-basic-operations\list-basic-operations\obj\Debug\list-basic-operations.exe
+C:\Users\ASUS X510Q\source\repos\list-basic-operations\list-basic-operations\obj\Debug\list-basic-operations.pdb
